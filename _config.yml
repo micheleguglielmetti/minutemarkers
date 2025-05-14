@@ -5,3 +5,4 @@ url:         "https://micheleguglielmetti.github.io"
 theme:       minima
 plugins:
   - jekyll-feed
+# Note: moved post into _posts folder
