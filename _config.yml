@@ -1,0 +1,7 @@
+title:       "MinuteMarkers"
+description: "Marking time with style, history, and reviews."
+baseurl:     "/minutemarkers"
+url:         "https://micheleguglielmetti.github.io"
+theme:       minima
+plugins:
+  - jekyll-feed
