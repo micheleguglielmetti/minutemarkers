@@ -17,3 +17,10 @@ body {
 main {
   padding: 1rem;  /* adjust as you like */
 }
+
+/* Remove the Minima theme’s top bar / header background & border */
+.site-header {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
