@@ -7,7 +7,7 @@ html, body {
 /* draw a solid navy-blue border around the entire page */
 body {
   box-sizing: border-box;      /* ensure padding/borders don’t overflow */
-  border: 100px solid #002F6C;   /* tweak thickness & hex to taste */
+  border: 10px solid #002F6C;   /* tweak thickness & hex to taste */
   padding: 0;                  /* reset any default body padding */
 }
 
