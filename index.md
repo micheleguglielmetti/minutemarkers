@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: default
+title: Home
+permalink: /
 ---
 
 Welcome to **MinuteMarkers**!  
