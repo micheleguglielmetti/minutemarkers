@@ -1,0 +1,19 @@
+/* flush border right up against the viewport */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* draw a solid navy-blue border around the entire page */
+body {
+  box-sizing: border-box;      /* ensure padding/borders don’t overflow */
+  border: 4px solid #002F6C;   /* tweak thickness & hex to taste */
+  padding: 0;                  /* reset any default body padding */
+}
+
+/* pad the main container inside the frame */
+.site-wrapper, 
+.container, 
+main {
+  padding: 1rem;  /* adjust as you like */
+}
