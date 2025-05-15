@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/logo.png' | relative_url }}"
+  <img src="{{ '/assets/images/logo.svg' | relative_url }}"
        alt="MinuteMarkers logo"
        width="200" />
 </p>
