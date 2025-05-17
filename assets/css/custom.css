@@ -11,13 +11,6 @@ body {
   padding: 0;                  /* reset any default body padding */
 }
 
-/* pad the main container inside the frame */
-.site-wrapper, 
-.container, 
-main {
-  padding: 1rem;  /* adjust as you like */
-}
-
 /* Remove the Minima theme’s top bar / header background & border */
 .site-header {
   background: none !important;
@@ -25,16 +18,23 @@ main {
   box-shadow: none !important;
 }
 
-/* Banner at top, centered inside the navy frame */
+/* your new navy banner strip */
 .top-banner {
+  width: 100%;
+  background-color: #002F6C;
   text-align: center;
-  padding: 1rem 0;
-  bbackground-color: #002F6C;  /* ← make it navy! */
+  padding: 1.5rem 0;    /* tweak for the height you want */
 }
 
+/* center & size the SVG */
 .top-banner img {
-  max-width: 100%;
-  height: auto;
+  max-height: 4rem;     /* adjust so it fits comfortably */
+  width: auto;
   display: inline-block;
-  /* optional: max-height: 8rem; */
 }
+
+/* pad the main container inside the frame */
+main .wrapper {
+  padding: 1rem;
+}
+
