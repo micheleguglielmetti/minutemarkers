@@ -24,3 +24,17 @@ main {
   border: none !important;
   box-shadow: none !important;
 }
+
+/* Banner at top, centered inside the navy frame */
+.top-banner {
+  text-align: center;
+  padding: 1rem 0;
+  bbackground-color: #002F6C;  /* ← make it navy! */
+}
+
+.top-banner img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  /* optional: max-height: 8rem; */
+}
