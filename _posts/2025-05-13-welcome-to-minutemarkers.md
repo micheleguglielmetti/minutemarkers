@@ -7,3 +7,4 @@ categories: intro
 
 Hello, watch-lovers! This is the inaugural post on MinuteMarkers.  
 I’ll cover everything from vintage chronographs to the latest micro-brands.
+Stay tuned!
