@@ -1,0 +1,40 @@
+/* flush border right up against the viewport */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* draw a solid navy-blue border around the entire page */
+body {
+  box-sizing: border-box;      /* ensure padding/borders don’t overflow */
+  border: 6px solid #002F6C;   /* tweak thickness & hex to taste */
+  padding: 0;                  /* reset any default body padding */
+}
+
+/* Remove the Minima theme’s top bar / header background & border */
+.site-header {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* your new navy banner strip */
+.top-banner {
+  width: 100%;
+  background-color: #002F6C;
+  text-align: center;
+  padding: 1.5rem 0;    /* tweak for the height you want */
+}
+
+/* center & size the SVG */
+.top-banner img {
+  max-height: 4rem;     /* adjust so it fits comfortably */
+  width: auto;
+  display: inline-block;
+}
+
+/* pad the main container inside the frame */
+main .wrapper {
+  padding: 1rem;
+}
+
