@@ -5,10 +5,10 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/logo.svg' | relative_url }}"
-       alt="MinuteMarkers logo"
-       width="200" />
+  <img src="{{ '/assets/images/landingpage.jpeg' | relative_url }}"
+       alt="MinuteMarkers landing page image"
+       width="50%" />
 </p>
 
-Welcome to **minutemarkers**!  
+Welcome to **MinuteMarkers**!  
 Here I’ll share bite-sized watch reviews, horology history and stories. 
