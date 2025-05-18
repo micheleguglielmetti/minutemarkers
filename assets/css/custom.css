@@ -39,3 +39,8 @@ main .wrapper {
   padding: 1rem;
 }
 
+/* remove subscribe via rss*/
+.rss-subscribe {
+  display: none;
+}
+
