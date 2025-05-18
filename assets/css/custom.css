@@ -1,46 +1,74 @@
-/* flush border right up against the viewport */
+/*────────────────────────────────────────────────────────────────*/
+/* 1. Full-page navy border & reset margins/padding            */
+/*────────────────────────────────────────────────────────────────*/
 html, body {
   min-height: 100%;
   margin: 0;
   padding: 0;
 }
-
-/* draw a solid navy-blue border around the entire page */
 body {
-  box-sizing: border-box;      /* ensure padding/borders don’t overflow */
-  border: 6px solid #002F6C;   /* tweak thickness & hex to taste */
-  padding: 0;                  /* reset any default body padding */
+  box-sizing: border-box;
+  border: 6px solid #002F6C;
 }
 
-/* Remove the Minima theme’s top bar / header background & border */
+/*────────────────────────────────────────────────────────────────*/
+/* 2. Remove the Minima theme’s default header styling         */
+/*────────────────────────────────────────────────────────────────*/
 .site-header {
   background: none !important;
   border: none !important;
   box-shadow: none !important;
 }
 
-/* your new navy banner strip */
+/*────────────────────────────────────────────────────────────────*/
+/* 3. Top banner strip                                         */
+/*────────────────────────────────────────────────────────────────*/
 .top-banner {
   width: 100%;
   background-color: #002F6C;
   text-align: center;
-  padding: 1.5rem 0;    /* tweak for the height you want */
+  padding: 1.5rem 0;
 }
-
-/* center & size the SVG */
 .top-banner img {
-  max-height: 4rem;     /* adjust so it fits comfortably */
+  max-height: 4rem;
   width: auto;
   display: inline-block;
 }
 
-/* pad the main container inside the frame */
+/*────────────────────────────────────────────────────────────────*/
+/* 4. Inner content padding                                     */
+/*────────────────────────────────────────────────────────────────*/
 main .wrapper {
   padding: 1rem;
 }
 
-/* remove subscribe via rss*/
+/*────────────────────────────────────────────────────────────────*/
+/* 5. Hide old “subscribe via RSS” link                          */
+/*────────────────────────────────────────────────────────────────*/
 .rss-subscribe {
   display: none;
 }
 
+/*────────────────────────────────────────────────────────────────*/
+/* 6. Footer background, text, and link colours                 */
+/*────────────────────────────────────────────────────────────────*/
+.site-footer,
+.sub-footer {
+  background-color: #f2f2f2; /* light grey */
+  color: #333;               /* dark grey text for contrast */
+  margin: 0;
+  padding: 2rem 0;           /* vertical breathing room */
+}
+
+/* Navy links inside the footer */
+.site-footer a,
+.sub-footer a {
+  color: #002F6C;
+  text-decoration: none;
+}
+
+/* Optional: ensure the wrapper inside the footer is also padded */
+.site-footer .wrapper,
+.sub-footer .wrapper {
+  padding: 1rem;
+}
