@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 1 Newsletter – The Tudor Black Bay 58"
 date:   2025-05-19 10:00:00 +0000
-categories: Newsletter – Week 1
+categories: Newsletter Week 1
 author: Michele Guglielmetti
 ---
 
