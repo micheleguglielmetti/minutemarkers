@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-
-  {%- include head.html -%}
-
+  <head>
+    {%- include head.html -%}
+  </head>
   <body>
-+   <div class="top-banner">
-+     <img
-+       src="{{ '/assets/images/bannerlogo.svg' | relative_url }}"
-+       alt="minutemarkers banner"
-+     >
-+   </div>
+    <div class="top-banner">
+      <img
+        src="{{ '/assets/images/bannerlogo.svg' | relative_url }}"
+        alt="minutemarkers banner"
+      >
+    </div>
 
     {%- include header.html -%}
 
@@ -24,5 +24,4 @@
     {%- include sub-footer.html -%}
 
   </body>
-
 </html>

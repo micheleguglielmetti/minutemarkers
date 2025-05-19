@@ -1,8 +1,14 @@
 title:       "Home"
-description: "Marking time with style, history, and reviews."
+description: "Marking time with style, history and reviews."
 baseurl:     ""
 url:         "https://minutemarkers.com"
 theme:       minima
 plugins:
   - jekyll-feed
-# Note: moved post into _posts folder
+
+minima:
+  
+  skin: classic
+
+  nav_pages:
+    - about.md
