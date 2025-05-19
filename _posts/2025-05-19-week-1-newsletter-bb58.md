@@ -31,11 +31,9 @@ Bezel | Unidirectional Aluminum Insert
 
 Introduced in 2018, the Black Bay Fifty-Eight is a vintage-inspired dive watch whose name pays tribute to the Tudor Oyster Prince Submariner of 1958. Its appeal largely comes from a 39 mm case diameter, which is modest by today’s dive-watch standards and suits those who prefer a more understated wrist presence. Its predecessor, the 41 mm Black Bay launched in 2012, marked Tudor’s return to  dive-watches after the Submariner line was discontinued in 1999.
 
-### The Case, Bracelet and Movement
-
-Picture below is an image of the BB58's MT5402 Calibre.
-
 ![Tudor Black Bay Fifty-Eight back view]({{ '/assets/images/BB58_2.png' | relative_url }})
+
+### The Case, Bracelet and Movement
 
 The Fifty-Eight’s case is crafted from 316L stainless steel with fully brushed surfaces and polished, chamfered edges. It showcases a 60-click unidirectional bezel with a coin-edge grip, a red-triangle marker at 12 o’clock, and gilt accents on both the bezel numerals and the dial’s hands and hour markers. Its solid-end-link bracelet, styled with faux rivets inspired by Rolex’s 1950s stretch bracelets, measures 20 mm at the lugs and tapers gradually to 16 mm at the T-link clasp.
 
@@ -43,9 +41,10 @@ The MT5402 COSC-certified movement is Tudor’s own “manufacture” calibre bu
 
 I may be biased, but the Black Bay Fifty Eight feels like the best all-rounder watch, combining heritage with a contemporary feel, it truly can be worn on any occasion despite its sporty nature.
 
-## The Vintage Icon - The Oyster Prince Submariner "Big Crown" 7924
 
 ![Tudor Oyster Prince Submariner 7924]({{ '/assets/images/BB58_3.png' | relative_url }})
+
+## The Vintage Icon - The Oyster Prince Submariner "Big Crown" 7924
 
 ### Overview and History
 
@@ -56,4 +55,4 @@ Its matte-black dial pairs original snowflake hands and hour markers filled with
 
 ![Tudor Oyster Prince Submariner 7924]({{ '/assets/images/BB58_4.png' | relative_url }})
 
-The watch was riginally supplied on a drilled-lug Oyster bracelet (ref. 7206) with stretch-free links, early 7924s found real-world duty on the wrists of the French Marine Nationale. That combat-tested feel and the fact Tudor never even listed it in its brochures, makes the Big Crown one of the rarest and most collectible dive watches of the era.
+The watch was originally supplied on a drilled-lug Oyster bracelet (ref. 7206) with stretch-free links, early 7924s found real-world duty on the wrists of the French Marine Nationale. That combat-tested feel and the fact Tudor never even listed it in its brochures, makes the Big Crown one of the rarest and most collectible dive watches of the era.
