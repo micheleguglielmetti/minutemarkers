@@ -81,3 +81,12 @@ main .wrapper {
 .sub-footer .wrapper {
   padding: 1rem;
 }
+
+/* ensure post images stay responsive */
+.page-content img {
+  max-width: 75%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;  /* centers and adds vertical space */
+}
+
